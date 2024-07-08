@@ -33,5 +33,16 @@ Incluidas as operações de:
 
 Nas seções **criar usuário** e **criar conta**, há a verificação se o usuário existe, e se seu CPF não está em uso em outra conta, respectivamente. 
 
+## Versão 3.0
+
+Código com abordagem de orientação a objetos;
+
+**TODO**: Não é possivel escolher conta para ser recuperada.<br>
+Agora: Possível escolher qual conta quer recuperar:
+
+```py
+def recuperar_conta_cliente()
+```
+
 Linguagem utilizada 
 - Python
