@@ -1,4 +1,5 @@
 import textwrap
+import tkinter
 #sistema bancario simples v2.0
 def depositar(saldo_conta, valor_inserido, extrato):
     if valor_inserido > 0:
