@@ -43,6 +43,18 @@ Agora: Possível escolher qual conta quer recuperar:
 ```py
 def recuperar_conta_cliente()
 ```
+## Update 
+
+Codigo com iteradores, decoradores e geradores 
+
+Decorador(_log_transacao_): Permitirá mostrar ao usuário qual operaçao foi realizada e a hora exata do acontecido. 
+
+Iterador: A classe  **_ContaIterador_** será capaz de realizar a impressão das contas pertencentes ao usuário com agencia, numero da conta, titular da conta e saldo.
+
+Gerador: Gera relatório/ extratos referentes ás movimentações com saques. 
+
+
+
 
 Linguagem utilizada 
 - Python
